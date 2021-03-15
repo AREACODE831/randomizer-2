@@ -162,7 +162,4 @@ function mousePressed() {
   setTimeout(randomizer, 2000);
 
 
-
-
-
 }
