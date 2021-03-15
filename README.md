@@ -1,4 +1,4 @@
-# randomizer
+# randomizer -2 (2b.5,6,7,8)
 Destiny -
 Do you remember what was the first conversation with your friend or teacher or lover who are with you now?
 
